@@ -11,3 +11,6 @@ https://www.kaggle.com/blastchar/telco-customer-churn
 You have all the code and the instructions to run the demo in the notebook Demo Customer Churn - BigQuery.ipynb.
 
 There is a deck in this repository as well to help you during the demo.
+
+
+https://celiamuriel.blogspot.com/2021/11/customer-churn-demo.html
