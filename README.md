@@ -13,4 +13,4 @@ You have all the code and the instructions to run the demo in the notebook Demo 
 There is a deck in this repository as well to help you during the demo.
 
 
-https://celiamuriel.blogspot.com/2021/11/customer-churn-demo.html --> This post will be available on November 22nd, 2021.
+https://celiamuriel.blogspot.com/2021/11/customer-churn-demo.html
